@@ -13,6 +13,7 @@ Gen 4
 Gen 5
 
 Gen 6
+- [Pokemon Omega Ruby](/Playthrough-Teams/Gen-6/Omega_Ruby_Team.md)
 
 Gen 7
 
