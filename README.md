@@ -9,7 +9,7 @@ All will be in the general format of:
 ### Game
 
 #### Max Level
-*Max Level is calculated by rounding the average levels of the Champion's Pokemon*
+*Max level is the highest level of the final Elite 4 member's Pokemon*
 
 Pokemon
 - Obtainment Methods/Locations

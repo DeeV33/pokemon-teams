@@ -6,7 +6,7 @@
 
 ### Max Level: 60
 
-[Weakness Chart (pkmn.help)](https://www.pkmn.help/defense/?mode=team&types=normal&ability=none&team_types=grass+poison&team_types=water+ice&team_types=fire&team_types=steel+electric&team_types=rock+flying&team_abilities=none+water_absorb+none+none+none&format=complex)
+[Weakness Chart (pkmn.help)](https://www.pkmn.help/defense/team/?types=poison+grass&types=ice+water&types=fire&types=electric+steel&types=rock+flying&format=simple)
 
 [Pokepaste w/ Showdown! Smogon Recommendations (for fun)](https://pokepast.es/9b451184680da972)
 
@@ -84,6 +84,8 @@ Ability: Rock Head
     - TM26 (Defeat Viridian City Gym)
 - HP Fighting
     - Hope lol (Pickup 5% lmao)
+  - Steel Wing (If you're unlucky)
+    - Safari Zone (Area 2: North)
 
 #### Raticate (Moral Support)
 - Everywhere, I think
@@ -98,5 +100,3 @@ Ability: Does it really matter?
     - Ya need it
 - Super Fang
     - Nice to have, I guess
-
-
