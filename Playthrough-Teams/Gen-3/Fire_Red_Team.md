@@ -44,7 +44,7 @@ Ability: Water Absorb
     - 13
 
 #### Arcanine
-- Location
+- Route 7/8
 
 Ability: Intimidate
 
@@ -60,6 +60,8 @@ Ability: Intimidate
     - 1
 
 #### Magneton
+- Power Plant
+
 - Thunderbolt
     - TM24
       - 4k Coins @ Game Corner
